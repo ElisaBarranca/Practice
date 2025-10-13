@@ -10,7 +10,7 @@
 - **Do I have to make an appointment?**
   - **For any groups about 10 or less**, you can walk through any time, located in the **classroom**
   - **For large groups (elementary/middle school classes)**, schedule an appointment by calling us at 123-45-67 or emailing random@emal.com
-For information about the Wildlife Museum, contact him at **123-45-67** or her at *123-45-67**
+For information about the Wildlife Museum, contact him at **123-45-67** or her at **123-45-67**
 
 ### **Biology Emphasis Areas**
 
