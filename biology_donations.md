@@ -8,6 +8,3 @@ When someone calls in and wants to give the Biology department a “Gift/Donatio
 **Phone**: 123-45-67
 **Email**: email@address.com
 
-### **Greenhouses**
-
-**For ALL Greenhouse questions (including tours)**, refer to the Applied Plant Science Triage. These DO NOT go to the Biology Office Assistant.
