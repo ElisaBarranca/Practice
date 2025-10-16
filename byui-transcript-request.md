@@ -1,9 +1,9 @@
 --- 
-Title: Transcript (BYUI) Request   
-Summary: This article provides detailed instructions for handling transcript requests at BYU-Idaho, including official and unofficial transcript requests, troubleshooting common issues, and guidance for alumni, parents, and third parties. It is intended for staff and support personnel assisting students, alumni, and external parties with transcript-related needs. Key topics include use of the Parchment system, escalation procedures, timeline expectations, and special cases like FERPA restrictions and apostilled documents.   
-Keywords: SRR   
+Title: Transcript (BYUI) Request: Test   
+Summary: This article provides detailed instructions for handling transcript requests at BYU-Idaho, including official and unofficial transcript requests, troubleshooting common issues, and guidance for alumni, parents, and third parties. It is intended for staff and support personnel assisting students, alumni, and external parties with transcript-related needs. Key topics include use of the Parchment system, escalation procedures, timeline expectations, and special cases like FERPA restrictions and apostilled documents.: Test   
+Keywords: SRR: Test   
 Owner: BSC: Test  
-Date: 10-16-2025 
+Date: 10-16-2025: Test 
 ---  
 
 # Transcript (BYUI) Request
